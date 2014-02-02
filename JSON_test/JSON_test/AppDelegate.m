@@ -8,7 +8,8 @@
 
 #import "AppDelegate.h"
 
-#define dataRetrievalURL @"http://www.newcenturymanong.com/test/cities.php"
+#program mark fill in your url of the php file 
+#define dataRetrievalURL @"your php url"
 
 @implementation AppDelegate
 
