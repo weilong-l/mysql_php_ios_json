@@ -2,13 +2,12 @@
 
   	/***************************************************************
 		Description: 	City data in JSON.
-		Developer:	Vishal Kurup
 		***************************************************************/
 
-	$host = "localhost"; //Your database host server
-	$db = "apprevol_calendar"; //Your database name
-	$user = "apprevol_cal"; //Your database user
-	$pass = "LWL19930415q"; //Your password
+	$host = "**"; //Your database host server
+	$db = "**"; //Your database name
+	$user = "**"; //Your database user
+	$pass = "**"; //Your password
 	
 	$connection = mysql_connect($host, $user, $pass);
 	
